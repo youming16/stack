@@ -4,7 +4,7 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
 [dateFormat]
@@ -12,13 +12,13 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🥇"
+subtitle = "Hi! Feel free to look aroud!"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "/img/avatar.png"
 
 [article]
 math = false
@@ -58,9 +58,9 @@ site = ""
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
-local = false
-src = ""
+enabled = true
+local = true
+src = "img/default.png"
 
 [colorScheme]
 toggle = true
@@ -74,7 +74,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
