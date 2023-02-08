@@ -10,12 +10,12 @@ tags:
     - Recursion
 ---
 
-## Dynamic Programming
 
-### What it is
+
+## What it is that?
 Dynamic Programming is a technique in computer programming that helps to efficiently solve a class of problems that have **overlapping** subproblems and optimal substructure property.
 
-### Pseudocode
+## Pseudocode
 Fibonacci:
 ```
 var m = map(0 → 0, 1 → 1)
@@ -25,21 +25,17 @@ function fib(n)
     return m[n]
 ```
 
-### Recursion vs DP
-Dynamic programming **is mostly** applied to recursive algorithms. 
+## DP vs Recursion
+Dynamic programming is mostly applied to recursive algorithms. 
 
-But not all problems that use recursion can use Dynamic Programming. Unless there is a presence of overlapping subproblems like in the fibonacci. An Recursion can only reach the solution using a divide and conquer approach.
+But not all problems that use recursion can use Dynamic Programming. **Unless there is a presence of overlapping subproblems** like in the fibonacci. An Recursion can only reach the solution using a divide and conquer approach.
 
 e.g. Like Merge Sort cannot use Dynamic Programming, because the subproblems are not overlapping in any way.
 
-### Greedy Algorithms vs DP
-Greedy Algorithms and DP they are both tools for **optimization**.
+## DP vs Greedy Algorithm
+Greedy Algorithms and DP they are **both tools for optimization**.
 
-However, greedy algorithms look for **locally** optimum solutions (Global optimum). Hence greedy algorithms can make a guess that looks optimum **at the time** but becomes costly down the line and do not guarantee a globally optimum.
+However, greedy algorithms look for **locally** optimum solutions (Global optimum). Hence greedy algorithms can make a guess that looks optimum at the time but becomes costly down the line and do not guarantee a globally optimum.
 
 Dynamic programming, on the other hand, finds the optimal solution to subproblems and then makes an informed choice to combine the results of those subproblems to find the most optimum solution.
 
-## Longest Common Subsequence
-
-
-## Floyd-Warshall Algorithm
