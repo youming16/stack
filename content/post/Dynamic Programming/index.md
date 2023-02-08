@@ -3,7 +3,7 @@ title: Dynamic programming
 description: And it's different types
 slug: (○'◡'○)
 date: 2023-02-07 00:00:00+0000
-image: https://i.ytimg.com/vi/aPQY__2H3tE/maxresdefault.jpg
+image: https://miro.medium.com/max/1400/1*C-WAJOlC1a2O0VOeU-mJQA.png
 categories:
     - Data Structure & Algorithm
 tags:
