@@ -2,7 +2,7 @@
 title: Tree Data Stucture
 description: What is Tree, and their different types?
 slug: (○'◡'○)
-date: 2023-02-07 00:00:00+0000
+date: 2023-02-08 00:00:00+0000
 image: cover.jpg
 categories:
     - Data Structure & Algorithms
