@@ -74,7 +74,7 @@ tags:
 | [command-a] & | Run command A in background |
 
 
-## PIPING COMMANDS
+## Piping commands
 
 | Key/Command | Description |
 | ----------- | ----------- |
