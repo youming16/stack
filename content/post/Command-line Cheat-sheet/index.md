@@ -11,12 +11,12 @@ tags:
     - Terminal
 ---
 
-# Links
+## Links
 - [Linus Quick Start](https://cnc-cheetsheet.netlify.app/linux.html)
 
 <br>
 
-# Short cuts
+## Short cuts
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -42,7 +42,7 @@ tags:
 | Esc + Backspace | Cut one word backwards using none alphabetic characters as delimiters |
 | Tab  | Auto-complete files and folder names |
 
-# Core commands
+## Core commands
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -64,7 +64,7 @@ tags:
 | clear |  Clears the screen |
 | reset |  Resets the terminal display |
 
-# Chain commands
+## Chain commands
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -74,14 +74,14 @@ tags:
 | [command-a] & | Run command A in background |
 
 
-# PIPING COMMANDS
+## PIPING COMMANDS
 
 | Key/Command | Description |
 | ----------- | ----------- |
 | [command-a] \| [command-b] | Run command A and then pass the result to command B e.g ps auxwww \| grep google |
 
 
-# Command history
+## Command history
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -92,7 +92,7 @@ tags:
 | !! |  Execute the last command typed |
 | !!:p |  Print to the console the last command typed |
 
-# File Management
+## File Management
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -114,7 +114,7 @@ tags:
 | pbpaste | Paste clipboard contents |
 | pbpaste > [file] | Paste clipboard contents into file, `pbpaste > paste-test.txt` |
 
-# Directory Management
+## Directory Management
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -127,7 +127,7 @@ tags:
 | [command] >> [file] | Append output to existing file |
 | [command] < [file] |  Tell command to read content from a file |
 
-# Search
+## Search
 
 | Key/Command | Description |
 | ----------- | ----------- |
@@ -139,7 +139,7 @@ tags:
 | mdfind [search_pattern] | Spotlight search for files (names, content, other metadata), e.g. `mdfind skateboard` |
 | mdfind -onlyin [dir] -name [pattern] | Spotlight search for files named like pattern in the given directory |
 
-# Help
+## Help
 
 | Key/Command | Description |
 | ----------- | ----------- |
