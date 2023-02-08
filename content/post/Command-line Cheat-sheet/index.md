@@ -2,7 +2,7 @@
 title: Bash Cheatsheet
 description: Terminal commands of mac
 slug: (◍•ᴗ•◍)
-date: 2023-02-7 00:00:00+0000
+date: 2023-02-07 00:00:00+0000
 image: cover.png
 categories:
     - Bash
