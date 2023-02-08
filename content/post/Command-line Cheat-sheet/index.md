@@ -1,6 +1,6 @@
 ---
 title: Bash Cheatsheet
-description: Terminal commands of mac
+description: Command Line of Lunix
 slug: (◍•ᴗ•◍)
 date: 2023-02-07 00:00:00+0000
 image: cover.png
