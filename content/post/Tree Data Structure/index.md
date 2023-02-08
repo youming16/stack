@@ -1,7 +1,7 @@
 ---
 title: Tree Data Stucture
 description: What is Tree, and their different types?
-slug: (○'◡'○)
+slug: Tree
 date: 2023-02-08 00:00:00+0000
 image: cover.jpg
 categories:
