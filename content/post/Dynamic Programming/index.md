@@ -1,9 +1,9 @@
 ---
 title: Dynamic programming
-description: And it's different types
+description: How dynamic programming solve problem for us
 slug: (○'◡'○)
 date: 2023-02-07 00:00:00+0000
-image: https://i.ytimg.com/vi/aPQY__2H3tE/maxresdefault.jpg
+image: cover.jpg
 categories:
     - Data Structure & Algorithm
 tags:
