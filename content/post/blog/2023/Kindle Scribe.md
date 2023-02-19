@@ -2,9 +2,8 @@
 title: Kindle Scribe
 date: 2023-02-03 00:00:00+0000
 description: How I feel about the new kindle
-categories:
-    - Blog
 tags:
+    - blog
 ---
 
 

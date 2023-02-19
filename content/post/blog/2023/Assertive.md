@@ -2,8 +2,8 @@
 title: Advices to be an assertive person
 date: 2023-02-07 00:00:00+0000
 description: 5 Sentences about confidence.
-categories:
-    - Blog
+tags: 
+    - blog
 ---
 
 1. People who oftern use "definitly", "I will", "sure" are more confident than people who often say "may", "might", "should", "just" etc.

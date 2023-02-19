@@ -2,8 +2,8 @@
 title: Blog journey
 date: 2023-02-06 00:00:00+0000
 description: Why I blog?
-categories:
-    - Blog
+tags: 
+    - blog
 ---
 
 # What is the decision?

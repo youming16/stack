@@ -2,10 +2,8 @@
 title: Leaving Naxeion Cafe
 publishDate: 17 Feb 2023
 description: Not happy today
-categories:
-    - blog
 tags: 
-    - event
+    - blog
 ---
 
 Today I quited the part-time job at Naxeion Cafe. Let's talk about why, and how I feel.
